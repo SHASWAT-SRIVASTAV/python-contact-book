@@ -143,7 +143,7 @@ This project was built to develop a concrete understanding of the following:
 
 ```bash
 # Clone the repository
-git clone https://github.com/SHASWAT--SRIVASTAV/python-contact-book.git
+git clone https://github.com/SHASWAT-SRIVASTAV/python-contact-book.git
 
 # Navigate into the project directory
 cd python-contact-book
