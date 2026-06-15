@@ -206,12 +206,10 @@ Enter name: Shaswat
 
 ## Author
 
-**Shashwat**
+**Shaswat**
 B.Tech — AI & ML · Noida Institute of Engineering and Technology
 
-[![GitHub](https://img.shields.io/badge/GitHub-@shashwat-590d22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c9184a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-@SHASWAT--SRIVASTAV-8B0A50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHASWAT-SRIVASTAV)
 ---
 
 ## License
@@ -222,6 +220,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-*— a record of real projects built while learning.*
 
 </div>
