@@ -222,6 +222,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-*Part of the [Python Portfolio](https://github.com/SHASWAT-SRIVASTAV/Python) — a record of real projects built while learning.*
+*— a record of real projects built while learning.*
 
 </div>
