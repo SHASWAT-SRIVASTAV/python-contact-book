@@ -171,11 +171,11 @@ Enter your choice: _
 ```
 
 ```
-Enter name: Shashwat
+Enter name: Shaswat
 Enter phone number: 9876543210
 ✔ Contact added successfully.
 
-Enter name: Shashwat
+Enter name: Shaswat
 ✖ Contact already exists.
 ```
 
@@ -222,6 +222,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-*Part of the [Python Portfolio](https://github.com/shashwat/Python) — a record of real projects built while learning.*
+*Part of the [Python Portfolio](https://github.com/SHASWAT-SRIVASTAV/Python) — a record of real projects built while learning.*
 
 </div>
